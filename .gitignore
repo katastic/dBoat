@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dboat
+dboat.so
+dboat.dylib
+dboat.dll
+dboat.a
+dboat.lib
+dboat-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
